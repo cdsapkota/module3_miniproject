@@ -1,1 +1,1 @@
-# module3_miniproject
+This repository contains the mini project from module 3.
